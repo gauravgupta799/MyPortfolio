@@ -16,7 +16,7 @@ const Technologies = () =>  (
           <ListTitle titleType ='frontend'>Front-End</ListTitle>
             <ListParagraph>
               Experience with <br/>
-              React.Js
+               React.Js <br/> JavaScript
             </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -26,7 +26,7 @@ const Technologies = () =>  (
           <ListTitle titleType ='backend'>Back-End</ListTitle>
             <ListParagraph>
               Experience with <br/>
-              NodeJs
+               NodeJs (ExpressJs) <br/> MongoDB
             </ListParagraph>
         </ListContainer>
       </ListItem>
