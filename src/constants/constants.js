@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: 'NEWS App',
+    description:"I developed it using ReactJs and JavaScript. During the development time, I learned some basic topics of React such as Props,State,fetching APIs,Routing,etc.",
+    image: "https://i.ibb.co/drH70xD/newsapp.png",
+    tags: ['React', 'JavaScript'],
+    source: 'https://github.com/gauravgupta799/NewsCast',
+    visit:  'https://github.com/gauravgupta799/NewsCast',
+    id: 1,
+  },
+  {
     title: 'MERN Memories',
     description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
       image: '/images/1.png',
@@ -7,15 +16,6 @@ export const projects = [
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 0,
-  },
-  {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: '/images/2.png',
-    tags: ['React', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
-    id: 1,
   },
   {
     title: 'WebRTC App',
